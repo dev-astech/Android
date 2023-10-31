@@ -1,0 +1,5 @@
+*.iml
+libs/**
+build/**
+build.gradle.kts
+proguard-rules.pro
