@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter App</string>
+    <string name="tvCountHeader">Your Count:</string>
+    <string name="tvCount">0</string>
+    <string name="btnCount">Count +1</string>
+    <string name="btnReset">Reset</string>
+</resources>
